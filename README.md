@@ -40,6 +40,9 @@ bwa samse genome.fasta SRR1946535.aln SRR1946535.fastq.gz > SRR1946535.sam
 samtools sort -o SRR1946353.bam SRR1946353.sam
 samtools sort -o SRR1946535.bam SRR1946535.sam
 
+samtools index SRR1946353.bam
+samtools index SRR1946535.bam
+
 samtools faidx genome.fasta
 samtools mpileup -BQ0 -f genome.fasta SRR1946353.bam > SRR1946353.pileup
 samtools mpileup -BQ0 -f genome.fasta SRR1946535.bam > SRR1946535.pileup
