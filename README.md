@@ -1,9 +1,11 @@
-# EcoTILLING of GRANULE BOUND STARCH SYNTHASE in Arabidopsis thaliana reveals wild plants producing amylose-free leaf starch
+# EcoTILLING of GRANULE BOUND STARCH SYNTHASE in Arabidopsis thaliana 
+
+## This manuscript is submitted. We add details upon acceptance.
 
 ## Supplemental Figure 6
 
 
-### Optaining sequences
+### Obtaining sequences
 
 Download SRR1946353 and SRR1946535 from NCBI using sra toolkit
 
@@ -16,7 +18,7 @@ Download SRR1946353 and SRR1946535 from NCBI using sra toolkit
 ```
 
 * Gn2-3 (sample 9790) SRR1946353
-* TueSB30-3 (sample 9999) SRR1946535. This data seems to be single end sequencing.
+* TueSB30-3 (sample 9999) SRR1946535. These data seem to be single end sequencing.
 
 Download TAIR 10 Arabidopsis thaliana chromosomes from [arabidopsis.org](ftp://ftp.arabidopsis.org/home/tair/Sequences/whole_chromosomes/) and concatenate sequences
 
