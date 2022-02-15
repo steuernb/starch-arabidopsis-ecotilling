@@ -1,6 +1,6 @@
 # EcoTILLING of GRANULE BOUND STARCH SYNTHASE in Arabidopsis thaliana 
 
-## This manuscript is submitted. We add details upon acceptance.
+## This is linked to the publication by Seung et al.: [Natural Polymorphisms in Arabidopsis Result in Wide Variation or Loss of the Amylose Component of Starch](https://pubmed.ncbi.nlm.nih.gov/31694903/)
 
 ## Supplemental Figure 6
 
